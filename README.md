@@ -14,9 +14,9 @@ java_home and m2_home has been set.
 
 Steps:
 ------
-1 - download and unzip the project.
-2 - Go to the project home directory of SpringHibernateIntegration, and run 
-    $ mvn clean package
+1. Download and unzip the project.
+2. Go to the project home directory of SpringHibernateIntegration, and run 
+3. $ mvn clean install
 
 Running the application.
 ========================
