@@ -1,5 +1,5 @@
 # Spring Hibernate Integration
-Spring Hibernate Integration with Mysql and Mave
+Spring Hibernate Integration with Mysql and Maven
 
 This contains the set of instructions required to build and run SpringHibernateIntegration application.
 
